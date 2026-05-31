@@ -3,9 +3,7 @@ data class User(
     val username: String,
     val isActive: Boolean
 )
-
 fun main() {
     val user = User(1, "Jay", true)
-
     println(user)
 }

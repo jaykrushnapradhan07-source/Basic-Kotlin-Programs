@@ -6,7 +6,6 @@ class Thermostat {
         temperature = value
     }
 }
-
 fun main() {
     val thermostat = Thermostat()
 
